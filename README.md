@@ -21,7 +21,7 @@ It’s a simple, mobile-friendly challenge to get you started with real-world sk
 
 ## Download the Challenge File
 
-[Download report.pdf](CyberCtf/report.pdf)
+[Download report.pdf](https://github.com/Achyut-007/CyberCtf/blob/main/report.pdf)
 
 ---
 
