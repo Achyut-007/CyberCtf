@@ -1,29 +1,42 @@
-# Mini CTF Challenge: Hidden Flag Inside
+# Mini CTF Challenges: Are You Ready?
 
-Welcome to your first hands-on cybersecurity challenge!  
-
-In this mini-CTF, your task is to find the **hidden flag** inside a file.  
-It’s a simple, mobile-friendly challenge to get you started with real-world skills like exploring files, spotting anomalies, and solving puzzles.
-
----
-
-## Challenge Instructions
-
-1. **Download the file** provided at the end of this README.  
-2. Examine it carefully. Something might look normal at first, but pay attention to the details.  
-3. Open the file with a text editor if needed — the flag is hidden inside.  
-
-**Clue:**  
-- The file extension looks normal, but the content might not match the extension.  
-- The flag is in the format `FLAG{...}`.  
+Welcome to your first set of mini cybersecurity challenges!  
+Each flag is hidden cleverly — think like an ethical hacker to find them.  
+All flags are in the format `FLAG{...}`.
 
 ---
 
-## Download the Challenge File
+## Challenge 1: The Report
+
+A mysterious report landed in your inbox. It looks official… but something is off.  
+Can you extract the hidden truth from it?  
 
 [Download report.pdf](https://github.com/Achyut-007/CyberCtf/blob/main/report.pdf)
 
 ---
 
-Good luck! 🔍  
-Remember: ethical hackers always look for small clues to solve big puzzles.
+## Challenge 2: The Encoded Message
+
+Someone left a secret note in an unusual format.  
+Can you decipher what they really meant?  
+
+
+RkxBR3tjeWJlcl9jdGZ9==
+
+
+---
+
+## Challenge 3: Ancient Codes
+
+A forgotten message was found in the archives, written in two different scripts.  
+Each reveals a piece of the puzzle. Can you translate them both?  
+
+- Octal: `106 114 101 147 173 164 63 146 6f 75 6e 64 7d`  
+- Hex: `46 4c 41 47 7b 63 74 66 5f 63 68 61 6c 6c 65 6e 67 65 7d`
+
+---
+
+### Your Mission
+
+Combine logic, curiosity, and a bit of technical skill to uncover all the flags.  
+Good luck!!!
