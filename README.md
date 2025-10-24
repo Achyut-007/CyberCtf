@@ -36,6 +36,17 @@ Each reveals a piece of the puzzle. Can you translate them both?
 
 ---
 
+## Challenge 4: The Forgotten Commit
+
+GitHub never truly forgets.  
+
+Somewhere in the past, a developer pushed a little too quickly... and left something behind.  
+
+**Flag:** `FLAG{git_history_exposed}`
+
+Even when code is cleaned up later, commit history can still hold traces of old secrets — API keys, passwords, or flags — that were once exposed. Always think before you push.
+---
+
 ### Your Mission
 
 Combine logic, curiosity, and a bit of technical skill to uncover all the flags.  
