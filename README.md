@@ -41,6 +41,19 @@ Each reveals a piece of the puzzle. Can you translate them both?
 I thought I had a flag here once — I must've removed it.  
 Maybe someone remembers.
 
+___
+
+## 🕵️ Challenge 5 — A Picture Never Forgets
+
+Someone shared this image saying it hides something important.  
+It looks perfectly normal… or does it?
+
+Maybe the image remembers more than it shows — after all, files can keep traces of their past.  
+See if you can uncover what it refuses to show on the surface.
+
+🖼️ **File:** `flag_text.png`  
+💡 **Hint:** Sometimes, details live between what you see and what’s stored...exif.
+
 ---
 
 ### Your Mission
