@@ -51,7 +51,7 @@ It looks perfectly normal… or does it?
 Maybe the image remembers more than it shows — after all, files can keep traces of their past.  
 See if you can uncover what it refuses to show on the surface.
 
-🖼️ **File:** [flag_text.jpg](https://github.com/Achyut-007/CyberCtf/edit/main/flag_text.jpg)  
+🖼️ **File:** [flag_text.jpg](https://github.com/Achyut-007/CyberCtf/blob/main/flag_text.jpg)  
 💡 **Hint:** Sometimes, details live between what you see and what’s stored...exif.
 
 ---
