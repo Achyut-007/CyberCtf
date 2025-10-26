@@ -9,9 +9,9 @@ All flags are in the format `FLAG{...}`.
 ## Challenge 1: The Report
 
 A mysterious report landed in your inbox. It looks official… but something is off.  
-Can you extract the hidden truth from it?  
+Can you **extract** the hidden truth from it?  
 
-[Download report.pdf](https://github.com/Achyut-007/CyberCtf/blob/main/report.pdf)
+[Download report.pdf](https://github.com/Achyut-007/CyberCtf/blob/main/Flag.pdf)
 
 ---
 
@@ -31,8 +31,8 @@ RkxBR3tjeWJlcl9jdGZ9==
 A forgotten message was found in the archives, written in two different scripts.  
 Each reveals a piece of the puzzle. Can you translate them both?  
 
-- Octal: `106 114 101 147 173 164 63 146 6f 75 6e 64 7d`  
-- Hex: `46 4c 41 47 7b 63 74 66 5f 63 68 61 6c 6c 65 6e 67 65 7d`
+`106 114 101 147 173 164 63 146 6f 75 6e 64 7d`  
+`46 4c 41 47 7b 63 74 66 5f 63 68 61 6c 6c 65 6e 67 65 7d`
 
 ---
 
