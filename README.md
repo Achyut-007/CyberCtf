@@ -38,9 +38,10 @@ Each reveals a piece of the puzzle. Can you translate them both?
 
 ## GitHub never truly forgets.  
 
-**Flag:** `FLAG{git_history_exposed}`
-Even when code is cleaned up later, commit history can still hold traces of old secrets — API keys, passwords, or flags — that were once exposed. Always think before you push.
-___
+I thought I had a flag here once — I must've removed it.  
+Maybe someone remembers...
+
+---
 
 ## Challenge 5 — A Picture Never Forgets
 
@@ -57,5 +58,5 @@ See if you can uncover what it refuses to show on the surface.
 
 ### Your Mission
 
-Combine logic, curiosity, and a bit of technical skill to uncover all the flags.  
+Combine logic, curiosity, and a bit of technical skill and online tools (like cyberchef) to uncover all the flags.  
 Good luck!!!
