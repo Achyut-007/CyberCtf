@@ -80,7 +80,7 @@ Here are some excellent resources to explore different cybersecurity careers and
   https://tryhackme.com/room/careersincyber  
   A hands-on, mobile-friendly room that helps you explore practical skills for different roles.
 
-**Quick action (Read → Try → Share):**
+**Quick action:**
 1. Pick one article and read the role descriptions.  
 2. Try the TryHackMe room for a short hands-on taste.  
 3. Decide which role excites you the most and plan your learning path accordingly.
