@@ -36,7 +36,7 @@ Each reveals a piece of the puzzle. Can you translate them both?
 
 ---
 
-## GitHub never truly forgets.  
+## Challenge 4 - GitHub never truly forgets.  
 
 I thought I had a flag here once — I must've removed it.  
 Maybe someone remembers...
@@ -60,3 +60,27 @@ See if you can uncover what it refuses to show on the surface.
 
 Combine logic, curiosity, and a bit of technical skill and online tools (like cyberchef) to uncover all the flags.  
 Good luck!!!
+
+## From Challenges to Careers
+
+By trying these mini CTFs, you’ve explored some essential cybersecurity skills: problem-solving, decoding, and digital investigation.  
+Now imagine applying these skills in real-world roles — from defending networks to ethical hacking and digital forensics.  
+
+Here are some excellent resources to explore different cybersecurity careers and find your calling:
+
+- **Hack The Box — Blog on Cybersecurity Career Paths**  
+  https://www.hackthebox.com/blog/cybersecurity-career-paths  
+  A concise overview of common career tracks and what employers look for.
+
+- **CyberNow (Medium) — Cybersecurity Career Paths**  
+  https://cybernoweducation.medium.com/cybersecurity-career-paths-exploring-various-roles-b0eab0c75274  
+  A friendly walkthrough of different roles, responsibilities, and learning directions.
+
+- **TryHackMe — Careers in Cyber (interactive room)**  
+  https://tryhackme.com/room/careersincyber  
+  A hands-on, mobile-friendly room that helps you explore practical skills for different roles.
+
+**Quick action (Read → Try → Share):**
+1. Pick one article and read the role descriptions.  
+2. Try the TryHackMe room for a short hands-on taste.  
+3. Decide which role excites you the most and plan your learning path accordingly.
