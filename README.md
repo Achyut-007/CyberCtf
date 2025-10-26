@@ -36,14 +36,13 @@ Each reveals a piece of the puzzle. Can you translate them both?
 
 ---
 
-## Challenge 4: The Forgotten Commit
+## GitHub never truly forgets.  
 
-I thought I had a flag here once — I must've removed it.  
-Maybe someone remembers.
-
+**Flag:** `FLAG{git_history_exposed}`
+Even when code is cleaned up later, commit history can still hold traces of old secrets — API keys, passwords, or flags — that were once exposed. Always think before you push.
 ___
 
-## 🕵️ Challenge 5 — A Picture Never Forgets
+## Challenge 5 — A Picture Never Forgets
 
 Someone shared this image saying it hides something important.  
 It looks perfectly normal… or does it?
@@ -51,8 +50,8 @@ It looks perfectly normal… or does it?
 Maybe the image remembers more than it shows — after all, files can keep traces of their past.  
 See if you can uncover what it refuses to show on the surface.
 
-🖼️ **File:** [flag_text.jpg](https://github.com/Achyut-007/CyberCtf/blob/main/flag_text.jpg)  
-💡 **Hint:** Sometimes, details live between what you see and what’s stored...exif.
+ **File:** [flag_text.jpg](https://github.com/Achyut-007/CyberCtf/blob/main/flag_text.jpg)  
+**Hint:** Sometimes, details live between what you see and what’s stored...exif.
 
 ---
 
