@@ -24,6 +24,16 @@ Can you decipher what they really meant?
 RkxBR3tjeWJlcl9jdGZ9==
 
 
+A little more difficult one to try:
+This is X(or encrypted), but someone changed the format of the encrypted text.
+
+Encrypted message: NSkiNT4nOigzPiALKyoxLw==
+Key: U0VDUkVU
+
+
+
+
+
 ---
 
 ## Challenge 3: Ancient Codes
@@ -32,6 +42,8 @@ A forgotten message was found in the archives, written in two different scripts.
 Each reveals a piece of the puzzle. Can you translate them both?  
 
 `106 114 101 147 173 164 63 146 6f 75 6e 64 7d`  
+
+
 `46 4c 41 47 7b 63 74 66 5f 63 68 61 6c 6c 65 6e 67 65 7d`
 
 ---
