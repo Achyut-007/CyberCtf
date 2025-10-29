@@ -41,8 +41,7 @@ Key: U0VDUkVU
 A forgotten message was found in the archives, written in two different scripts.  
 Each reveals a piece of the puzzle. Can you translate them both?  
 
-`106 114 101 147 173 164 63 146 6f 75 6e 64 7d`  
-
+`146 154 141 147 173 146 162 157 155 137 157 143 164 141 154 175`
 
 `46 4c 41 47 7b 63 74 66 5f 63 68 61 6c 6c 65 6e 67 65 7d`
 
